@@ -1,8 +1,5 @@
 # SMART-HELMET
 
-.. image:: https://github.com/hvijaycse/SMART-HELMET-IOT/blob/master/graphics/git-start.jpg?raw=true
-    :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
-    
 =====
 
 | NodeMCU  ||  C++  ||  IOT  ||  WIFI 
@@ -20,13 +17,6 @@ so there is no need to buy a new helmet or a new vehicle.
 
 SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the whole system.
 
-
-
-=====
-
-
-.. image:: https://github.com/hvijaycse/SMART-HELMET-IOT/blob/master/graphics/git-mid.jpg?raw=true
-    :target: https://github.com/hvijaycse/SMART-HELMET-IOT-
 
 
 =====
